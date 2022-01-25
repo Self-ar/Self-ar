@@ -1,1 +1,17 @@
-### Hi  ![emoji](https://user-images.githubusercontent.com/98377548/150922658-56da5a7f-308f-4626-ae6f-8a3cbe458cec.png)
+<h2><em> Hi, I'm Soroush! <img src="https://cdn.discordapp.com/emojis/880521883739648060.gif?size=4096" width="50"></h2>
+<img align='right' src="https://cdn.discordapp.com/attachments/869114893096345600/911259802364178463/Logo.png" width="230">
+<p>A Mid Level Developer & Verified Discord Developer </br>Learning : 
+Python , JavaScript , HTML , CSS , PHP
+</em></p>
+
+---
+### - 💻 Social Media :
+
+<p align="left">
+<a href="https://discord.gg/Ed2EHXunFA"><img alt="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" title="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" height="32" width="32" src=https://cdn.discordapp.com/attachments/906990335006220318/911332020028846181/discord-mascot.png></a>
+<a href="https://instagram.com/soroushmk_pv"><img alt="Instagram - DoCi" title="Instagram - DoCi" height="32" width="32" src=https://cdn.discordapp.com/attachments/864936919312629850/911264557777952869/instagram.png></a>
+  <a href="https://t.me/soroush_mirkazemi"><img alt="Telegram - DoCi" title="Telegram - DoCi" height="32" width="32" src=https://cdn.discordapp.com/attachments/912414110732419123/916621972081885204/telegram_PNG34.png></a>
+
+</p>
+
+---
