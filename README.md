@@ -10,5 +10,6 @@ Python , JavaScript , HTML
 
 **My GitHub Stas**
 
-![Views](https://komarev.com/ghpvc/?username=Self-ar&style=flat-square&label=Views)
+
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Self-ar&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-self&hide=TeX&layout=compact)
+![Views](https://komarev.com/ghpvc/?username=Self-ar&style=flat-square&label=Views)
