@@ -1,2 +1,2 @@
-### Hi https://media.discordapp.net/attachments/899049980336148510/935226744254914590/VID_20220124_142544_850.mp4
+### Hi https://cdn.discordapp.com/emojis/933318455107674132.gif?size=128&quality=lossless
 
