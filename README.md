@@ -1,5 +1,4 @@
 <h2><em> Hi, I'm AmirReza <img src="https://cdn.discordapp.com/emojis/854285049260539914.gif?size=128&quality=lossless" width="50"></h2>
-<img align='right' src="https://cdn.discordapp.com/attachments/869114893096345600/911259802364178463/Logo.png" width="230">
 <p>A Mid Level Developer & Verified Discord Developer </br>Learning : 
 Python , JavaScript , HTML
 </em></p>
