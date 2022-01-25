@@ -1,5 +1,5 @@
 <h2><em> Hi, I'm AmirReza <img src="https://cdn.discordapp.com/emojis/854285049260539914.gif?size=128&quality=lossless" width="50"></h2>
-> __**I'm a mediocre developer and I're just starting out, most of my current activity is in Discord. Thank you for following me ✨**__
+ I'm a mediocre developer and I're just starting out, most of my current activity is in Discord. Thank you for following me ✨
 </em></p>
 
 ---
