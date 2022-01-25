@@ -1,2 +1,2 @@
-### Hi 
-<a:heartdiamond:839464427764842547>
+### Hi https://media.discordapp.net/attachments/899049980336148510/935226744254914590/VID_20220124_142544_850.mp4
+
